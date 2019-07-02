@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: Currency-Conversion-Service
+
+        
+server:
+  port: 9000
