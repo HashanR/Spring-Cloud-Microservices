@@ -12,3 +12,4 @@ Furthermore I use these technologies in order to overcome common problems come w
 5) Spring Cloud Config Server
 6) Hystrix for fault tolerance(circuit breaker)
 7) Feign Client
+8) Ribbon for client side load balancing
